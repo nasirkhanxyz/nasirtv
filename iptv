@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,S $ SYFY
+
+
 http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10603.ts
 #EXTINF:-1,S $ TEVA
 http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10602.ts
@@ -1466,6 +1467,6 @@ http://istream.dyndns.tv:8000/live/4Ij0Uk9eBU/beuj2IoREG/4995.ts
 #EXTINF:-1,FRA - 6ter HD
 http://istream.dyndns.tv:8000/live/4Ij0Uk9eBU/beuj2IoREG/4999.ts
 #EXTINF:-1,FRA - BFM TV
-http://istream.dyndns.tv:8000/live/4Ij0Uk9eBU/beuj2IoREG/5011.ts
-#EXTINF:-1,FRA - iTele
+
+
 http://istream.dyndns.tv:8000/live/4Ij0Uk9eBU/beuj2IoREG/5047.ts
